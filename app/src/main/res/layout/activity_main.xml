@@ -36,6 +36,6 @@
         android:layout_marginBottom="28dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Strain Name" />
+        android:hint="Strain Name" />
 
 </RelativeLayout>

@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 String strain = mStrainText.getText().toString();
                 Log.d(TAG, strain);
                 Intent intent = new Intent(MainActivity.this, StrainActivity.class);
+                intent.putExtra("strain", strain);
                 startActivity(intent);
             }
         });
