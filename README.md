@@ -1,0 +1,2 @@
+# PlantFinder
+Hello! This was originally intended to be an app that would find dispensaries near the user selling "budget" marijuana strains. Unfortunately, the only API that this app can really be made with is Leafly's and while their database is excellent they are currently not allowing general developer access to it. I had been planning to make a proof of concept with a different API anyway, but it turns out my backup doesn't actually have the endpoints I need and the data on it is pretty out of date. So this is on hold for now, sorry!
